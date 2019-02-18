@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mybatisxTest
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.jsonXxxx
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/mybatisxTest
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
